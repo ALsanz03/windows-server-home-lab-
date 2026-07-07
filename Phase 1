@@ -1,0 +1,46 @@
+# Phase 1 - Active Directory Foundation
+
+Objectives
+
+- Install Active Directory
+- Configure DNS
+- Build Organizational Units
+- Create Users
+- Create Security Groups
+- Configure Distribution Groups
+
+Organizational Units
+
+- Users
+- Groups
+- Workstations
+- Servers
+- Service Accounts
+
+Security Groups
+
+- IT_Admins
+- HelpDesk
+- HR_Users
+- Sales_Users
+- Marketing
+- Managers
+
+Distribution Groups
+
+- AllEmployees
+
+Users Created
+
+- John Smith
+- Sarah Johnson
+- Mike Brown
+- Emily Davis
+- Robert Wilson
+
+Skills Demonstrated
+
+- Active Directory administration
+- User management
+- Group management
+- Organizational Unit design
