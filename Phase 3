@@ -1,0 +1,24 @@
+Phase 3 – DNS Administration and Record Management
+
+Objective
+
+Configure and validate DNS records within the Active Directory environment by creating A records, CNAME aliases, and testing name resolution.
+
+Tasks Completed
+
+* Accessed and managed the Active Directory DNS Forward Lookup Zone.
+* Created an A record to map a hostname (`fileserver`) to the server IP address.
+* Created a CNAME record (`storage`) as an alias pointing to `fileserver.home.lab`.
+* Verified DNS resolution using `nslookup`.
+* Confirmed successful hostname-to-IP address resolution within the domain environment.
+
+Skills Demonstrated
+
+* Windows Server DNS Administration
+* DNS Forward Lookup Zones
+* A Record Configuration
+* CNAME Record Configuration
+* DNS Name Resolution
+* `nslookup` Troubleshooting
+* Active Directory Integrated DNS
+* Basic Network Troubleshooting
