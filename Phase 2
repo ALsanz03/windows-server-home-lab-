@@ -1,0 +1,25 @@
+Phase 2 – File Sharing and Permission Management
+
+Objective
+
+Implement secure file sharing by creating departmental network shares, assigning permissions with Active Directory security groups, and validating user access.
+
+Tasks Completed
+
+* Created shared folders for the Marketing, HR, and IT departments.
+* Configured SMB network shares for each department.
+* Assigned NTFS and share permissions using Active Directory security groups.
+* Verified that authorized users could access and modify their assigned folders.
+* Confirmed unauthorized users were denied access to restricted shares.
+* Tested file access and permissions using multiple domain user accounts.
+
+Skills Demonstrated
+
+* Windows Server File Services
+* SMB File Share Configuration
+* NTFS Permissions
+* Share Permissions
+* Active Directory Security Groups
+* Access Control
+* User Access Validation
+* Windows Server Administration
